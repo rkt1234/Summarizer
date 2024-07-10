@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466878923935",
+    "project_id": "summarizer-521cb",
+    "storage_bucket": "summarizer-521cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466878923935:android:d82ee13caa8081f8e88eaa",
+        "android_client_info": {
+          "package_name": "com.example.summarizer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSSneQkZQq0kwT4MwvXqqVHlOniNwQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
